@@ -1,5 +1,7 @@
 # examen_integrador
 <<<<<<< HEAD
+Gabriel Rodriguez
+
 Oliver Bustamante
 =======
 
